@@ -5,8 +5,6 @@ For example, if you received an email with details for an event, you could simpl
 This project is designed to save time and energy, especially in situations where you have to create a series of events. It also reduces human error when creating such events.
 The application is based around MacOS and runs in the menu bar at the top of the screen.
 
-![](https://github.com/alexhowden/ParseCal/blob/main/media/ParseCalDemo.gif)
-
 ## Requirements
 
 - You have the latest version of Python installed (will likely work if a few versions behind)
